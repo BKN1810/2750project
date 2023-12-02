@@ -1,0 +1,3 @@
+ing SSH: When you want to clone a GitHub repository using SSH, you need to have an SSH key pair set up and associated with your GitHub account. If you have set up SSH keys for authentication, you can use the SSH URL to clone the repository. Here's how:
+o Open a terminal or command prompt on your local machine.
+o Navigate to the directory where you want to clone the
